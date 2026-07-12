@@ -1,6 +1,6 @@
 # Vencord Themes
 My custom Vencord themes, available to use for anyone and everyone.
--# Disclaimer: Always read the readme.txt file that is included with every custom theme, as it may prevent you from encountering errors or making mistakes during installation, (and saves me the headache of correcting Issue posts that are just disabled settings or other shit).
+<sup>Disclaimer: Always read the readme.txt file that is included with every custom theme, as it may prevent you from encountering errors or making mistakes during installation, (and saves me the headache of correcting Issue posts that are just disabled settings or other shit).</sup>
 
 If you have a request for a custom theme, or a tip/idea to improve already existing themes feel free to hit me up on Discord @notquiteETERNAL, or just find me in the Vencord Discord server :P
 
